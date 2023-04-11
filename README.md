@@ -52,4 +52,19 @@ You can interact with the report [here](https://docs.google.com/spreadsheets/d/1
 
 ## Analysis
 
+### Analysis for CEO's Report
+- The Neatherlands raised the highest amount
+- United Kingdom sold the most Quantity with 4,263,829
+- WORLD WAR 2 GLIDERS ASSTD DESIGNS sold the most in terms of Quantity
+- United Kingdom made the highest amont in all Quarters
+
+### Analysis for CMO's Report
+-
+-
+
 ## Conclusion and Recommendations
+
+#Recommendation: The store should look into;
+1. Items with negative quantity values. 
+2. Ensuring that Customer ID's are allocated for better tracking of customer purchases.
+3. Items that are not Described but have Invoice numbers.
